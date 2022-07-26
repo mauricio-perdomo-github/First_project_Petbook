@@ -32,6 +32,9 @@ body{
 .left{
     width:500px;
     align-items: flex-start;
+    padding: 5%;
+    align-items: center;
+}
 }
 
 .left h1{
@@ -42,6 +45,7 @@ body{
 }
 
 .left p{
+    text-align: center;
     font-size: 30px;
     color:#1c1e21;
     height: 200px;
@@ -57,7 +61,7 @@ form{
     border-radius: 10px;
     width:400px;
     display: flex;
-    padding: 20px;
+    padding: 25px;
     margin-bottom: 25px;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
