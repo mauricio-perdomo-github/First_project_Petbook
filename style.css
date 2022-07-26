@@ -39,6 +39,7 @@ body{
     font-size: 60px;
     color: #1877f2;
     font-weight: 800;
+    padding-left: 9%;
    
 }
 
@@ -47,7 +48,7 @@ body{
     color:#1c1e21;
     height: 200px;
     font-family: "Roboto Condensed", sans-serif;
-    padding: 5%;
+    padding: 9%;
 }
 
 .right{
